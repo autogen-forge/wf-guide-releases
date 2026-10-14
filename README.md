@@ -5,12 +5,12 @@
 
 ## 다운로드
 
-**[Windows용 설치 파일 받기](https://github.com/autogen-forge/wf-guide-releases/releases/latest/download/WF-Guide-setup.zip)**
+**[Windows용 설치 파일 받기](https://github.com/autogen-forge/wf-guide-releases/releases/latest/download/WF-Guide-setup.exe)**
 
 - Windows 10 · 11
 - 버전별 파일과 변경 내역은 [Releases](https://github.com/autogen-forge/wf-guide-releases/releases)에서 볼 수 있습니다.
-- 설치 없이 쓰는 단독 실행 파일은 같은 릴리스의 `WF-Guide-portable.zip`입니다.
-- zip의 압축을 풀고 안의 `.exe`를 실행하세요. 서명되지 않은 새 파일이라 처음엔 Windows가 경고를 띄울 수 있습니다 (추가 정보 → 실행).
+- 설치 없이 쓰는 단독 실행 파일은 같은 릴리스의 `WF-Guide-portable.exe`입니다.
+- 서명되지 않은 새 파일이라 처음엔 Windows가 경고를 띄울 수 있습니다 (추가 정보 → 실행).
 
 ## 들어 있는 것
 
